@@ -1,0 +1,119 @@
+
+f
+java:S1192 "KDefine a constant instead of duplicating this literal "productID" 10 times.(³Œã´ùÿÿÿÿ
+p
+java:S1192µ"YDefine a constant instead of duplicating this literal "      ,[manufacturerID]
+" 5 times.(ğÄõÚ
+e
+java:S1192("ODefine a constant instead of duplicating this literal "manufacturerID" 8 times.(·áŠó
+i
+java:S1192$"NDefine a constant instead of duplicating this literal "stockQuantity" 8 times.(µ–Œ¶úÿÿÿÿ
+o
+java:S1192±"XDefine a constant instead of duplicating this literal "      ,[stockQuantity]
+" 5 times.(”‡ñè
+n
+java:S1192)"SDefine a constant instead of duplicating this literal "manufacturinngDate" 8 times.(Ú±ƒ›şÿÿÿÿ
+k
+java:S1192´"ODefine a constant instead of duplicating this literal "      ,[type]
+" 5 times.(üü×Öÿÿÿÿÿ
+t
+java:S1192¹"XDefine a constant instead of duplicating this literal "      ,[productStatus]
+" 5 times.(˜±Ğ—ûÿÿÿÿ
+b
+java:S1192!"LDefine a constant instead of duplicating this literal "productName" 8 times.(´Œ“„
+s
+java:S1192»"WDefine a constant instead of duplicating this literal "      ,[modifiedDate]
+" 5 times.(‹µ¡Èıÿÿÿÿ
+a
+java:S1192#"FDefine a constant instead of duplicating this literal "price" 8 times.(ÅÙ­ïıÿÿÿÿ
+r
+java:S1192®"VDefine a constant instead of duplicating this literal "      ,[productName]
+" 5 times.(Ê¯ø€üÿÿÿÿ
+k
+java:S1192­"TDefine a constant instead of duplicating this literal "SELECT [productID]
+" 4 times.(½‰¦ü
+p
+java:S1192²"YDefine a constant instead of duplicating this literal "      ,[warrantyPeriod]
+" 5 times.(å°‰Ô
+l
+java:S1192º"VDefine a constant instead of duplicating this literal "      ,[createdDate]
+" 5 times.(óı›.
+r
+java:S1192¯"VDefine a constant instead of duplicating this literal "      ,[description]
+" 5 times.(ş†ìÓÿÿÿÿÿ
+l
+java:S1192·"UDefine a constant instead of duplicating this literal "      ,[expiryDate]
+" 5 times.(ÈÒ»Ä
+c
+java:S1192."MDefine a constant instead of duplicating this literal "modifiedDate" 8 times.(â®§¦
+v
+java:S1192¸"ZDefine a constant instead of duplicating this literal "      ,[productCapacity]
+" 5 times.(¥º®Úûÿÿÿÿ
+l
+java:S1192°"PDefine a constant instead of duplicating this literal "      ,[price]
+" 5 times.(íÉÿÆûÿÿÿÿ
+k
+java:S1192¼"TDefine a constant instead of duplicating this literal "      ,[createdBy]
+" 5 times.(Ã¡Úù
+b
+java:S1192""LDefine a constant instead of duplicating this literal "description" 8 times.(ÙçàŠ
+f
+java:S1192*"KDefine a constant instead of duplicating this literal "expiryDate" 8 times.(À±ƒ€üÿÿÿÿ
+e
+java:S1192%"ODefine a constant instead of duplicating this literal "warrantyPeriod" 8 times.(Ÿ’ÃÃ
+a
+java:S11920"KDefine a constant instead of duplicating this literal "modifiedBy" 8 times.( Ğ§ø
+f
+java:S1192&"KDefine a constant instead of duplicating this literal "categoryID" 8 times.(¹Ñıùÿÿÿÿ
+s
+java:S1192¶"]Define a constant instead of duplicating this literal "      ,[manufacturinngDate]
+" 5 times.(ÜÀ‘r
+q
+java:S1192³"UDefine a constant instead of duplicating this literal "      ,[categoryID]
+" 5 times.(ÃÙö’ùÿÿÿÿ
+i
+java:S1192,"NDefine a constant instead of duplicating this literal "productStatus" 8 times.(¸ÔâŒùÿÿÿÿ
+g
+java:S1192-"LDefine a constant instead of duplicating this literal "createdDate" 8 times.(¶×àúÿÿÿÿ
+l
+java:S1192½"UDefine a constant instead of duplicating this literal "      ,[modifiedBy]
+" 5 times.(ˆà¾Ê
+`
+java:S1192/"JDefine a constant instead of duplicating this literal "createdBy" 8 times.(áóÕÔ
+e
+java:S1192+"PDefine a constant instead of duplicating this literal "productCapacity" 8 times.(ÙÔç>
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÓ¬‰ÿÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+I
+java:S6126­"2Replace this String concatenation with Text block.(½‰¦ü
+T	java:S106Ù"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N
+java:S6126ß"2Replace this String concatenation with Text block.(ÅÊşßùÿÿÿÿ
+N
+java:S6126“"2Replace this String concatenation with Text block.(ÅÊşßùÿÿÿÿ
+D
+java:S1874¯".Remove this use of "<init>"; it is deprecated.(êæ‰h
+E
+java:S1874°".Remove this use of "<init>"; it is deprecated.(Â’âÎ
+?	java:S108¶")Either remove or fill this block of code.(É®£
+N
+java:S6126½"2Replace this String concatenation with Text block.(ª‘…ßúÿÿÿÿ
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106û"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+I
+java:S6126Æ"2Replace this String concatenation with Text block.(ıÄ
+E
+java:S1874á".Remove this use of "<init>"; it is deprecated.(Ú‡ƒ•
+J
+java:S1874â".Remove this use of "<init>"; it is deprecated.(Öİğşÿÿÿÿ
+?	java:S108é")Either remove or fill this block of code.(É®£
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+I
+java:S6126¤"2Replace this String concatenation with Text block.(â³»À
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
